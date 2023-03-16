@@ -3,3 +3,5 @@ __pycache__/
 *.swp
 .env
 .pylintrc
+data/
+wikitext-103-raw/
